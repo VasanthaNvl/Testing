@@ -6,7 +6,7 @@
         int Count;
 
         //Added By Sairam.
-        float temprature;
+        float temparature;
 
         //Modified by adding function
         public int Display()
